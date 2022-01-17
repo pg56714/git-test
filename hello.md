@@ -28,6 +28,8 @@ Hello World
 Hello World
 ```
 
+----
+
 ```python
 def hello();
     print('Hello World')
@@ -60,3 +62,6 @@ def hello();
 ![NTUB logo](https://upload.wikimedia.org/wikipedia/zh/thumb/6/68/National_Taipei_University_of_Business_logo.svg/1200px-National_Taipei_University_of_Business_logo.svg.png)
 
 ![](https://i.imgur.com/L66NNPV.jpg)
+
+
+![](./img/test.jpg)
